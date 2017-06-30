@@ -1,0 +1,20 @@
+<match> The fact that </match>
+<match> The fact that </match>
+<match> the fact that </match>
+<match> the fact that </match>
+<match> The fact that </match>
+<match> the very fact that </match>
+<match> the empirical fact that </match>
+<match> The very fact that </match>
+<match> The very fact that </match>
+<match> the basic fact that </match>
+<match> the assumption that </match>
+<match> the assumption that </match> 
+<match> the assumption that </match> 
+<match> the assumption that </match>
+<match> the assumption that </match>
+<match> the assumption that </match>
+<match> the untenable assumption that </match>
+<match> the cultural assumption that </match>
+<match> the consequent assumption that </match>
+<match> the further assumption that </match>
