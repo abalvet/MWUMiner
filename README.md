@@ -23,6 +23,7 @@ bla bla <match> my other : match </match> bla bla - bla
 ```
 
 This is the usage information you get when you type java -jar MWUMiner-alpha.jar without any argument, or with either -h, --h, -help, -Help, -info, etc.
+Both the jar executable and the libraries stored in the "-lib" folder are necessary to run the MWUMiner.
 
 In order to replicate the results found in the "baseline" folder, you need:
 
